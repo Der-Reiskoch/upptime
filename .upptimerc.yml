@@ -11,7 +11,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: /upptime
-  logoUrl: https://der.reisko.ch/img/logo.svg
+  logoUrl: hhttps://der-reiskoch.github.io/upptime/logo.svg
   name: Der Reiskoch Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: This is the status page for "Der Reiskoch". [**Get your own for free**](https://github.com/upptime/upptime)
