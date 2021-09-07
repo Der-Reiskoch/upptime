@@ -15,12 +15,11 @@ status-website:
   baseUrl: /upptime
   logoUrl: https://der-reiskoch.github.io/upptime/logo.svg
   name: Der Reiskoch
-  introTitle: Der Reiskock Status
+  introTitle: Der Reiskoch Status
   introMessage: Upptime is the open-source uptime monitor and status page, powered entirely by GitHub. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-  themeUrl:  https://der-reiskoch.github.io/upptime/theme.css   
       
       
 
