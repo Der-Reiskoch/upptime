@@ -4,7 +4,7 @@ repo: upptime # The name of this repository
 
 sites:
   - name: Blog
-    url: https://der.reisko.ch/
+    url: https://der.reisko.ch
   - name: Media
     url: https://der-reiskoch.github.io/foodie_hugo_media/logo.png
 
@@ -20,6 +20,8 @@ status-website:
   navbar:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+    - title: Blog
+      href: https://der.reisko.ch
   themeUrl: https://der-reiskoch.github.io/upptime/reiskoch-theme.css    
       
       
