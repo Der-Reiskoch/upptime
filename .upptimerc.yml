@@ -20,6 +20,7 @@ status-website:
   navbar:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+  themeUrl: https://der-reiskoch.github.io/upptime/reiskoch-theme.css    
       
       
 
