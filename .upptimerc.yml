@@ -6,7 +6,7 @@ sites:
   - name: Blog
     url: https://der.reisko.ch/
   - name: Media
-    url: https://der-reiskoch.github.io/foodie_hugo_media/media/_fotoalbum/2017/20171027_selbstversorger.jpg
+    url: https://der-reiskoch.github.io/foodie_hugo_media/logo.png
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
