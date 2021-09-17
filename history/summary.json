@@ -4,10 +4,10 @@
     "url": "https://der.reisko.ch",
     "icon": "https://favicons.githubusercontent.com/der.reisko.ch",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 845,
@@ -15,14 +15,16 @@
     "timeWeek": 807,
     "timeMonth": 845,
     "timeYear": 845,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-17": 1
+    }
   },
   {
     "name": "Comments Service",
     "url": "https://kommentiere-den.reisko.ch",
     "icon": "https://favicons.githubusercontent.com/kommentiere-den.reisko.ch",
     "slug": "comments-service",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,7 +35,9 @@
     "timeWeek": 820,
     "timeMonth": 820,
     "timeYear": 820,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-17": 0
+    }
   },
   {
     "name": "Media",
