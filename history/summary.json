@@ -10,11 +10,11 @@
     "uptimeWeek": "99.93%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
-    "time": 877,
-    "timeDay": 1115,
-    "timeWeek": 927,
-    "timeMonth": 877,
-    "timeYear": 877,
+    "time": 882,
+    "timeDay": 1020,
+    "timeWeek": 915,
+    "timeMonth": 882,
+    "timeYear": 882,
     "dailyMinutesDown": {
       "2021-09-17": 7
     }
@@ -25,16 +25,16 @@
     "icon": "https://favicons.githubusercontent.com/kommentiere-den.reisko.ch",
     "slug": "comments-service",
     "status": "up",
-    "uptime": "99.90%",
+    "uptime": "99.92%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.90%",
-    "time": 971,
-    "timeDay": 789,
-    "timeWeek": 971,
-    "timeMonth": 971,
-    "timeYear": 971,
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
+    "time": 981,
+    "timeDay": 1049,
+    "timeWeek": 981,
+    "timeMonth": 981,
+    "timeYear": 981,
     "dailyMinutesDown": {
       "2021-09-17": 6
     }
@@ -51,8 +51,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 48,
-    "timeDay": 53,
-    "timeWeek": 54,
+    "timeDay": 37,
+    "timeWeek": 44,
     "timeMonth": 48,
     "timeYear": 48,
     "dailyMinutesDown": {}
