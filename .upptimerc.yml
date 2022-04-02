@@ -9,7 +9,9 @@ sites:
     url: https://kommentiere-den.reisko.ch  
   - name: Media
     url: https://der-reiskoch.github.io/foodie_hugo_media/logo.png
-
+  - name: New Media Server 
+    url: https://bebildere-den.reisko.ch/logo.png  
+   
 assignees: erich3000
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
