@@ -7,9 +7,7 @@ sites:
     url: https://der.reisko.ch
   - name: Comments Service
     url: https://kommentiere-den.reisko.ch  
-  - name: Media
-    url: https://der-reiskoch.github.io/foodie_hugo_media/logo.png
-  - name: New Media Server 
+  - name: Media Server 
     url: https://bebildere-den.reisko.ch/logo.png  
    
 assignees: erich3000
