@@ -4,10 +4,10 @@
     "url": "https://der.reisko.ch",
     "icon": "https://favicons.githubusercontent.com/der.reisko.ch",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 973,
@@ -16,6 +16,7 @@
     "timeMonth": 1039,
     "timeYear": 973,
     "dailyMinutesDown": {
+      "2022-07-18": 1,
       "2022-06-07": 16,
       "2022-03-21": 18,
       "2022-03-16": 16,
@@ -39,10 +40,10 @@
     "url": "https://kommentiere-den.reisko.ch",
     "icon": "https://favicons.githubusercontent.com/kommentiere-den.reisko.ch",
     "slug": "comments-service",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 999,
@@ -51,6 +52,7 @@
     "timeMonth": 945,
     "timeYear": 999,
     "dailyMinutesDown": {
+      "2022-07-18": 1,
       "2022-06-07": 15,
       "2022-02-28": 22,
       "2022-02-19": 19,
@@ -67,9 +69,9 @@
     "url": "https://bebildere-den.reisko.ch/logo.png",
     "icon": "https://favicons.githubusercontent.com/bebildere-den.reisko.ch",
     "slug": "media-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -78,6 +80,8 @@
     "timeWeek": 802,
     "timeMonth": 785,
     "timeYear": 775,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-18": 0
+    }
   }
 ]
