@@ -11,6 +11,10 @@ sites:
     url: https://kommentare.der-reiskoch.de
   - name: Media Server 
     url: https://bilder.der-reiskoch.de
+  - name: Resize Image Service
+    url: https://resize.der-reiskoch.de/?src=%2fmedia%2f1000%2f1091%2fgefuellte_lotuswurzel.jpg&width=190
+  - name: Pin Generation Service
+    url: https://pins.der-reiskoch.de/v2/?id=1271&title=Gaeng%20Om%20Moo%20aus%20dem%20Isaan
    
 assignees: erich3000
 status-website:
