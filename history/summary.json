@@ -33,19 +33,19 @@
     "url": "https://der.reisko.ch",
     "icon": "https://icons.duckduckgo.com/ip3/der.reisko.ch.ico",
     "slug": "blog-forwarded",
-    "status": "down",
-    "uptime": "99.89%",
-    "uptimeDay": "97.81%",
-    "uptimeWeek": "99.69%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.89%",
-    "time": 1138,
-    "timeDay": 1535,
-    "timeWeek": 1079,
-    "timeMonth": 1138,
-    "timeYear": 1138,
+    "status": "up",
+    "uptime": "99.84%",
+    "uptimeDay": "96.75%",
+    "uptimeWeek": "99.54%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.84%",
+    "time": 1154,
+    "timeDay": 1531,
+    "timeWeek": 1129,
+    "timeMonth": 1154,
+    "timeYear": 1154,
     "dailyMinutesDown": {
-      "2023-09-25": 31
+      "2023-09-25": 46
     }
   },
   {
