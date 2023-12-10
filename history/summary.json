@@ -108,19 +108,19 @@
     "url": "https://resize.der-reiskoch.de/?src=%2fmedia%2f1000%2f1091%2fgefuellte_lotuswurzel.jpg&width=190",
     "icon": "https://icons.duckduckgo.com/ip3/resize.der-reiskoch.de.ico",
     "slug": "resize-image-service",
-    "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "98.90%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "98.86%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "99.98%",
+    "uptimeYear": "99.97%",
     "time": 1572,
     "timeDay": 15591,
     "timeWeek": 6637,
     "timeMonth": 2554,
     "timeYear": 1572,
     "dailyMinutesDown": {
-      "2023-12-10": 16,
+      "2023-12-10": 17,
       "2023-09-28": 19
     }
   },
@@ -130,18 +130,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/pins.der-reiskoch.de.ico",
     "slug": "pin-generation-service",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.04%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.99%",
     "time": 1998,
     "timeDay": 7414,
     "timeWeek": 4590,
     "timeMonth": 2608,
     "timeYear": 1998,
     "dailyMinutesDown": {
-      "2023-12-10": 14,
       "2023-09-28": 19
     }
   }
