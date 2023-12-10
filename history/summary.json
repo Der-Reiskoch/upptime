@@ -124,9 +124,9 @@
     "url": "https://pins.der-reiskoch.de/v2/?id=1271&title=Gaeng%20Om%20Moo%20aus%20dem%20Isaan",
     "icon": "https://icons.duckduckgo.com/ip3/pins.der-reiskoch.de.ico",
     "slug": "pin-generation-service",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -136,6 +136,7 @@
     "timeMonth": 1782,
     "timeYear": 1731,
     "dailyMinutesDown": {
+      "2023-12-10": 0,
       "2023-09-28": 19
     }
   }
