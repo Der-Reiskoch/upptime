@@ -4,11 +4,11 @@
     "url": "https://www.der-reiskoch.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.der-reiskoch.de.ico",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.77%",
-    "uptimeMonth": "99.86%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.85%",
     "uptimeYear": "99.92%",
     "time": 1239,
     "timeDay": 3490,
@@ -16,6 +16,7 @@
     "timeMonth": 1820,
     "timeYear": 1274,
     "dailyMinutesDown": {
+      "2023-12-14": 2,
       "2023-12-10": 23,
       "2023-11-18": 38,
       "2023-09-28": 19,
@@ -108,9 +109,9 @@
     "url": "https://resize.der-reiskoch.de/?src=%2fmedia%2f1000%2f1091%2fgefuellte_lotuswurzel.jpg&width=190",
     "icon": "https://icons.duckduckgo.com/ip3/resize.der-reiskoch.de.ico",
     "slug": "resize-image-service",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.95%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
@@ -120,6 +121,7 @@
     "timeMonth": 3426,
     "timeYear": 1841,
     "dailyMinutesDown": {
+      "2023-12-14": 1,
       "2023-12-10": 16,
       "2023-09-28": 19
     }
@@ -129,9 +131,9 @@
     "url": "https://pins.der-reiskoch.de/v2/?id=1271&title=Gaeng%20Om%20Moo%20aus%20dem%20Isaan",
     "icon": "https://icons.duckduckgo.com/ip3/pins.der-reiskoch.de.ico",
     "slug": "pin-generation-service",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -141,6 +143,7 @@
     "timeMonth": 2826,
     "timeYear": 2062,
     "dailyMinutesDown": {
+      "2023-12-14": 0,
       "2023-09-28": 19
     }
   }
