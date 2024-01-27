@@ -5,17 +5,23 @@ repo: upptime # The name of this repository
 sites:
   - name: Blog
     url: https://www.der-reiskoch.de
-  - name: Blog (Forwarded)
-    url: https://der.reisko.ch
   - name: Comments Service
-    url: https://kommentare.der-reiskoch.de
-  - name: Media Server 
+    url: https://kommentare.koch-reis.de/
+  - name: Media Server (OLD)
     url: https://bilder.der-reiskoch.de
-  - name: Resize Image Service
+  - name: Resize Image Service (OLD)
     url: https://resize.der-reiskoch.de/?src=%2fmedia%2f1000%2f1091%2fgefuellte_lotuswurzel.jpg&width=190
-  - name: Pin Generation Service
+  - name: Pin Generation Service (OLD)
     url: https://pins.der-reiskoch.de/v2/?id=1271&title=Gaeng%20Om%20Moo%20aus%20dem%20Isaan
-   
+  - name: Media Server (New) 
+    url: https://bilder.koch-reis.de/media/1200/1263/buch_und_block.webp
+  - name: Resize Image Service (New)
+    url: https://bilder.koch-reis.de/resize/v2/?width=190&src=%2fmedia%2f0900%2f0918%2fnuea_pad_phed_prik_thai_on.jpg
+  - name: Pin Generation Service (New)
+    url: https://bilder.koch-reis.de/pin/v2/?id=1300&title=Thail%C3%A4ndischer%20Salad%20Talee-Sap
+  - name: Flyer Server (NEW)
+    url:  https://bilder.koch-reis.de/flyer/v1/?id=20240414_oberhausen.jpg
+
 assignees: erich3000
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
