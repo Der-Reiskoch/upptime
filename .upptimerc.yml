@@ -10,11 +10,13 @@ sites:
   - name: Media Server 
     url: https://bilder.koch-reis.de/media/1200/1263/buch_und_block.webp
   - name: Resize Image Service
-    url: https://bilder.koch-reis.de/resize/v2/?width=190&src=%2fmedia%2f0900%2f0918%2fnuea_pad_phed_prik_thai_on.jpg
+    url: https://api.koch-reis.de/resize/v2/?width=190&src=%2fmedia%2f0900%2f0918%2fnuea_pad_phed_prik_thai_on.jpg
   - name: Pin Generation Service
-    url: https://bilder.koch-reis.de/pin/v2/?id=1300&title=Thail%C3%A4ndischer%20Salad%20Talee-Sap
-  - name: Flyer Server
-    url:  https://bilder.koch-reis.de/flyer/v1/?id=20240414_oberhausen.jpg
+    url: https://api.koch-reis.de/pin/v2/?id=1300&title=Thail%C3%A4ndischer%20Salad%20Talee-Sap
+  - name: Calendar Flyer Service
+    url:  https://api.koch-reis.de/flyer/v1/?id=20240414_oberhausen.jpg
+  - name: YouTube Preview Service
+    url:  https://api.koch-reis.de/youtube/v1/?file=m_HzLtoRP64.webp
 
 assignees: erich3000
 status-website:
