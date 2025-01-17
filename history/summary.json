@@ -11,16 +11,15 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.84%",
     "time": 1187,
-    "timeDay": 1270,
-    "timeWeek": 1539,
+    "timeDay": 592,
+    "timeWeek": 871,
     "timeMonth": 996,
-    "timeYear": 1105,
+    "timeYear": 1104,
     "dailyMinutesDown": {
       "2024-10-09": 20,
       "2024-09-02": 44,
       "2024-04-28": 59,
-      "2024-01-29": 52,
-      "2024-01-18": 606
+      "2024-01-29": 52
     }
   },
   {
@@ -34,11 +33,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.15%",
-    "time": 1075,
-    "timeDay": 829,
-    "timeWeek": 829,
-    "timeMonth": 732,
-    "timeYear": 977,
+    "time": 1073,
+    "timeDay": 724,
+    "timeWeek": 784,
+    "timeMonth": 739,
+    "timeYear": 962,
     "dailyMinutesDown": {
       "2024-10-09": 20,
       "2024-09-02": 49,
@@ -46,8 +45,7 @@
       "2024-01-27": 698,
       "2024-01-26": 1440,
       "2024-01-25": 1440,
-      "2024-01-24": 151,
-      "2024-01-18": 607
+      "2024-01-24": 151
     }
   },
   {
@@ -62,16 +60,15 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.84%",
     "time": 1082,
-    "timeDay": 1600,
-    "timeWeek": 991,
-    "timeMonth": 959,
+    "timeDay": 683,
+    "timeWeek": 936,
+    "timeMonth": 960,
     "timeYear": 1050,
     "dailyMinutesDown": {
       "2024-10-09": 42,
       "2024-09-02": 40,
       "2024-04-22": 34,
-      "2024-01-23": 36,
-      "2024-01-18": 607
+      "2024-01-23": 36
     }
   },
   {
@@ -80,24 +77,23 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.koch-reis.de.ico",
     "slug": "resize-image-service",
     "status": "up",
-    "uptime": "99.27%",
+    "uptime": "99.28%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.55%",
-    "time": 888,
-    "timeDay": 691,
-    "timeWeek": 806,
-    "timeMonth": 862,
-    "timeYear": 583,
+    "time": 887,
+    "timeDay": 612,
+    "timeWeek": 679,
+    "timeMonth": 863,
+    "timeYear": 581,
     "dailyMinutesDown": {
       "2024-10-09": 42,
       "2024-09-02": 47,
       "2024-08-23": 1177,
       "2024-08-22": 232,
       "2024-04-22": 34,
-      "2024-01-23": 53,
-      "2024-01-18": 608
+      "2024-01-23": 53
     }
   },
   {
@@ -110,20 +106,19 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.55%",
-    "time": 1187,
-    "timeDay": 664,
-    "timeWeek": 897,
-    "timeMonth": 758,
-    "timeYear": 933,
+    "uptimeYear": "99.56%",
+    "time": 1185,
+    "timeDay": 571,
+    "timeWeek": 624,
+    "timeMonth": 759,
+    "timeYear": 930,
     "dailyMinutesDown": {
       "2024-10-09": 28,
       "2024-09-02": 69,
       "2024-08-23": 1177,
       "2024-08-22": 232,
       "2024-04-22": 34,
-      "2024-01-23": 35,
-      "2024-01-18": 608
+      "2024-01-23": 35
     }
   },
   {
@@ -137,11 +132,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 460,
-    "timeDay": 145,
-    "timeWeek": 239,
+    "time": 457,
+    "timeDay": 120,
+    "timeWeek": 139,
     "timeMonth": 184,
-    "timeYear": 460,
+    "timeYear": 457,
     "dailyMinutesDown": {
       "2024-09-02": 66
     }
@@ -157,11 +152,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 377,
-    "timeDay": 168,
-    "timeWeek": 427,
+    "time": 376,
+    "timeDay": 150,
+    "timeWeek": 169,
     "timeMonth": 281,
-    "timeYear": 377,
+    "timeYear": 376,
     "dailyMinutesDown": {
       "2024-09-02": 66
     }
