@@ -4,18 +4,19 @@
     "url": "https://www.der-reiskoch.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.der-reiskoch.de.ico",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1063,
+    "time": 1064,
     "timeDay": 593,
     "timeWeek": 799,
     "timeMonth": 861,
     "timeYear": 1113,
     "dailyMinutesDown": {
+      "2025-05-25": 0,
       "2024-10-09": 20,
       "2024-09-02": 44
     }
@@ -25,9 +26,9 @@
     "url": "https://kommentare.koch-reis.de/",
     "icon": "https://icons.duckduckgo.com/ip3/kommentare.koch-reis.de.ico",
     "slug": "comments-service",
-    "status": "up",
+    "status": "down",
     "uptime": "99.63%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -37,6 +38,7 @@
     "timeMonth": 801,
     "timeYear": 935,
     "dailyMinutesDown": {
+      "2025-05-25": 0,
       "2024-10-09": 20,
       "2024-09-02": 49
     }
@@ -46,9 +48,9 @@
     "url": "https://bilder.koch-reis.de/media/1200/1263/buch_und_block.webp",
     "icon": "https://icons.duckduckgo.com/ip3/bilder.koch-reis.de.ico",
     "slug": "media-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -58,6 +60,7 @@
     "timeMonth": 987,
     "timeYear": 1058,
     "dailyMinutesDown": {
+      "2025-05-25": 0,
       "2024-10-09": 42,
       "2024-09-02": 40
     }
@@ -67,9 +70,9 @@
     "url": "https://api.koch-reis.de/resize/v2/?width=190&src=%2fmedia%2f0900%2f0918%2fnuea_pad_phed_prik_thai_on.jpg",
     "icon": "https://icons.duckduckgo.com/ip3/api.koch-reis.de.ico",
     "slug": "resize-image-service",
-    "status": "up",
+    "status": "down",
     "uptime": "99.47%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.71%",
@@ -79,6 +82,7 @@
     "timeMonth": 931,
     "timeYear": 759,
     "dailyMinutesDown": {
+      "2025-05-25": 0,
       "2024-10-09": 42,
       "2024-09-02": 47,
       "2024-08-23": 1177,
@@ -90,9 +94,9 @@
     "url": "https://api.koch-reis.de/pin/v2/?id=1300&title=Thail%C3%A4ndischer%20Salad%20Talee-Sap",
     "icon": "https://icons.duckduckgo.com/ip3/api.koch-reis.de.ico",
     "slug": "pin-generation-service",
-    "status": "up",
+    "status": "down",
     "uptime": "99.67%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.71%",
@@ -102,6 +106,7 @@
     "timeMonth": 690,
     "timeYear": 793,
     "dailyMinutesDown": {
+      "2025-05-25": 0,
       "2024-10-09": 28,
       "2024-09-02": 69,
       "2024-08-23": 1177,
@@ -113,9 +118,9 @@
     "url": "https://api.koch-reis.de/flyer/v1/?id=20240414_oberhausen.jpg",
     "icon": "https://icons.duckduckgo.com/ip3/api.koch-reis.de.ico",
     "slug": "calendar-flyer-service",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -125,6 +130,7 @@
     "timeMonth": 268,
     "timeYear": 348,
     "dailyMinutesDown": {
+      "2025-05-25": 0,
       "2024-09-02": 66
     }
   },
@@ -133,9 +139,9 @@
     "url": "https://api.koch-reis.de/youtube/v1/?file=m_HzLtoRP64.webp",
     "icon": "https://icons.duckduckgo.com/ip3/api.koch-reis.de.ico",
     "slug": "you-tube-preview-service",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -145,6 +151,7 @@
     "timeMonth": 186,
     "timeYear": 292,
     "dailyMinutesDown": {
+      "2025-05-25": 0,
       "2024-09-02": 66
     }
   }
