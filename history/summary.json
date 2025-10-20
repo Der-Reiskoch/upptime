@@ -107,9 +107,9 @@
     "url": "https://api.koch-reis.de/flyer/v1/?id=20240414_oberhausen.jpg",
     "icon": "https://icons.duckduckgo.com/ip3/api.koch-reis.de.ico",
     "slug": "calendar-flyer-service",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -119,6 +119,7 @@
     "timeMonth": 262,
     "timeYear": 227,
     "dailyMinutesDown": {
+      "2025-10-20": 0,
       "2025-05-25": 30
     }
   },
