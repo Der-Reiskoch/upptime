@@ -4,11 +4,11 @@
     "url": "https://www.der-reiskoch.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.der-reiskoch.de.ico",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 1095,
     "timeDay": 1086,
@@ -16,6 +16,7 @@
     "timeMonth": 997,
     "timeYear": 996,
     "dailyMinutesDown": {
+      "2025-11-16": 2,
       "2025-07-28": 21,
       "2025-05-25": 30
     }
@@ -25,10 +26,10 @@
     "url": "https://kommentare.koch-reis.de/",
     "icon": "https://icons.duckduckgo.com/ip3/kommentare.koch-reis.de.ico",
     "slug": "comments-service",
-    "status": "up",
+    "status": "down",
     "uptime": "99.67%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 925,
@@ -37,6 +38,7 @@
     "timeMonth": 834,
     "timeYear": 795,
     "dailyMinutesDown": {
+      "2025-11-16": 2,
       "2025-07-28": 21,
       "2025-05-25": 30
     }
@@ -46,18 +48,19 @@
     "url": "https://bilder.koch-reis.de/media/1200/1263/buch_und_block.webp",
     "icon": "https://icons.duckduckgo.com/ip3/bilder.koch-reis.de.ico",
     "slug": "media-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1066,
+    "time": 1067,
     "timeDay": 1531,
     "timeWeek": 1095,
     "timeMonth": 1008,
     "timeYear": 1005,
     "dailyMinutesDown": {
+      "2025-11-16": 1,
       "2025-07-28": 21,
       "2025-05-25": 30
     }
@@ -67,18 +70,19 @@
     "url": "https://api.koch-reis.de/resize/v2/?width=190&src=%2fmedia%2f0900%2f0918%2fnuea_pad_phed_prik_thai_on.jpg",
     "icon": "https://icons.duckduckgo.com/ip3/api.koch-reis.de.ico",
     "slug": "resize-image-service",
-    "status": "up",
+    "status": "down",
     "uptime": "99.61%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 891,
+    "time": 892,
     "timeDay": 1316,
     "timeWeek": 1062,
     "timeMonth": 867,
     "timeYear": 903,
     "dailyMinutesDown": {
+      "2025-11-16": 1,
       "2025-05-25": 30
     }
   },
@@ -87,10 +91,10 @@
     "url": "https://api.koch-reis.de/pin/v2/?id=1300&title=Thail%C3%A4ndischer%20Salad%20Talee-Sap",
     "icon": "https://icons.duckduckgo.com/ip3/api.koch-reis.de.ico",
     "slug": "pin-generation-service",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 780,
@@ -99,6 +103,7 @@
     "timeMonth": 686,
     "timeYear": 705,
     "dailyMinutesDown": {
+      "2025-11-16": 1,
       "2025-05-25": 53
     }
   },
@@ -107,9 +112,9 @@
     "url": "https://api.koch-reis.de/flyer/v1/?id=20240414_oberhausen.jpg",
     "icon": "https://icons.duckduckgo.com/ip3/api.koch-reis.de.ico",
     "slug": "calendar-flyer-service",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -119,6 +124,7 @@
     "timeMonth": 248,
     "timeYear": 235,
     "dailyMinutesDown": {
+      "2025-11-16": 0,
       "2025-05-25": 30
     }
   },
@@ -127,9 +133,9 @@
     "url": "https://api.koch-reis.de/youtube/v1/?file=m_HzLtoRP64.webp",
     "icon": "https://icons.duckduckgo.com/ip3/api.koch-reis.de.ico",
     "slug": "you-tube-preview-service",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -139,6 +145,7 @@
     "timeMonth": 183,
     "timeYear": 203,
     "dailyMinutesDown": {
+      "2025-11-16": 0,
       "2025-05-25": 30
     }
   }
