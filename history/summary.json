@@ -6,17 +6,16 @@
     "slug": "blog",
     "status": "up",
     "uptime": "99.91%",
-    "uptimeDay": "99.67%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1092,
     "timeDay": 1176,
     "timeWeek": 971,
     "timeMonth": 1104,
-    "timeYear": 1001,
+    "timeYear": 1002,
     "dailyMinutesDown": {
-      "2025-12-02": 5,
       "2025-07-28": 21,
       "2025-05-25": 30
     }
@@ -28,9 +27,9 @@
     "slug": "comments-service",
     "status": "up",
     "uptime": "99.67%",
-    "uptimeDay": "99.71%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 936,
     "timeDay": 691,
@@ -38,7 +37,6 @@
     "timeMonth": 904,
     "timeYear": 807,
     "dailyMinutesDown": {
-      "2025-12-02": 4,
       "2025-07-28": 21,
       "2025-05-25": 30
     }
@@ -50,17 +48,16 @@
     "slug": "media-server",
     "status": "up",
     "uptime": "99.88%",
-    "uptimeDay": "99.74%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1071,
     "timeDay": 2059,
     "timeWeek": 1174,
     "timeMonth": 1089,
-    "timeYear": 1016,
+    "timeYear": 1017,
     "dailyMinutesDown": {
-      "2025-12-02": 4,
       "2025-07-28": 21,
       "2025-05-25": 30
     }
@@ -72,17 +69,16 @@
     "slug": "resize-image-service",
     "status": "up",
     "uptime": "99.62%",
-    "uptimeDay": "99.76%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 943,
     "timeDay": 827,
     "timeWeek": 865,
     "timeMonth": 917,
-    "timeYear": 906,
+    "timeYear": 907,
     "dailyMinutesDown": {
-      "2025-12-02": 4,
       "2025-05-25": 30
     }
   },
@@ -93,9 +89,9 @@
     "slug": "pin-generation-service",
     "status": "up",
     "uptime": "99.76%",
-    "uptimeDay": "99.77%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 785,
     "timeDay": 721,
@@ -103,7 +99,6 @@
     "timeMonth": 696,
     "timeYear": 707,
     "dailyMinutesDown": {
-      "2025-12-02": 3,
       "2025-05-25": 53
     }
   },
@@ -114,17 +109,16 @@
     "slug": "calendar-flyer-service",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.79%",
-    "uptimeWeek": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
-    "time": 317,
+    "time": 320,
     "timeDay": 335,
     "timeWeek": 269,
     "timeMonth": 280,
-    "timeYear": 243,
+    "timeYear": 244,
     "dailyMinutesDown": {
-      "2025-12-02": 3,
       "2025-11-22": 16,
       "2025-05-25": 30
     }
@@ -136,9 +130,9 @@
     "slug": "you-tube-preview-service",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.81%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 258,
     "timeDay": 429,
@@ -146,7 +140,6 @@
     "timeMonth": 246,
     "timeYear": 210,
     "dailyMinutesDown": {
-      "2025-12-02": 3,
       "2025-05-25": 30
     }
   }
