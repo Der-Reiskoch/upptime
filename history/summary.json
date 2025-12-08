@@ -4,17 +4,17 @@
     "url": "https://www.der-reiskoch.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.der-reiskoch.de.ico",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1093,
-    "timeDay": 1455,
-    "timeWeek": 1162,
-    "timeMonth": 1117,
-    "timeYear": 1012,
+    "time": 1092,
+    "timeDay": 1326,
+    "timeWeek": 1163,
+    "timeMonth": 1113,
+    "timeYear": 1011,
     "dailyMinutesDown": {
       "2025-07-28": 21,
       "2025-05-25": 30
@@ -33,7 +33,7 @@
     "uptimeYear": "99.99%",
     "time": 911,
     "timeDay": 1036,
-    "timeWeek": 916,
+    "timeWeek": 888,
     "timeMonth": 920,
     "timeYear": 811,
     "dailyMinutesDown": {
@@ -54,7 +54,7 @@
     "uptimeYear": "99.99%",
     "time": 1072,
     "timeDay": 1533,
-    "timeWeek": 1462,
+    "timeWeek": 1495,
     "timeMonth": 1159,
     "timeYear": 1029,
     "dailyMinutesDown": {
@@ -75,7 +75,7 @@
     "uptimeYear": "99.99%",
     "time": 890,
     "timeDay": 795,
-    "timeWeek": 959,
+    "timeWeek": 973,
     "timeMonth": 941,
     "timeYear": 908,
     "dailyMinutesDown": {
@@ -95,7 +95,7 @@
     "uptimeYear": "99.99%",
     "time": 733,
     "timeDay": 753,
-    "timeWeek": 754,
+    "timeWeek": 748,
     "timeMonth": 711,
     "timeYear": 709,
     "dailyMinutesDown": {
@@ -115,7 +115,7 @@
     "uptimeYear": "99.99%",
     "time": 316,
     "timeDay": 238,
-    "timeWeek": 280,
+    "timeWeek": 283,
     "timeMonth": 281,
     "timeYear": 246,
     "dailyMinutesDown": {
@@ -136,7 +136,7 @@
     "uptimeYear": "99.99%",
     "time": 251,
     "timeDay": 366,
-    "timeWeek": 342,
+    "timeWeek": 329,
     "timeMonth": 272,
     "timeYear": 213,
     "dailyMinutesDown": {
