@@ -1,7 +1,7 @@
 url: https://api.koch-reis.de/social-media/v1/?src=reiskoch&format=pin&id=1390&title=Gurkensalat%20nach%20Sichuan%20Art
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-02-20T07:55:31.800Z
+status: up
+code: 200
+responseTime: 664
+lastUpdated: 2026-02-20T08:06:26.358Z
 startTime: 2024-02-01T20:33:17.569Z
 generator: Upptime <https://github.com/upptime/upptime>
