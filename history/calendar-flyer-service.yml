@@ -1,7 +1,7 @@
 url: https://api.koch-reis.de/flyer/v1/?id=/2026/20260315_celle.jpg
-status: up
-code: 200
-responseTime: 165
-lastUpdated: 2026-02-25T23:10:39.821Z
+status: down
+code: 502
+responseTime: 289
+lastUpdated: 2026-02-26T11:08:24.444Z
 startTime: 2024-08-23T19:37:08.464Z
 generator: Upptime <https://github.com/upptime/upptime>
