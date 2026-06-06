@@ -4,13 +4,13 @@
     "url": "https://www.der-reiskoch.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.der-reiskoch.de.ico",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "88.87%",
-    "uptimeWeek": "93.14%",
-    "uptimeMonth": "98.26%",
-    "uptimeYear": "99.65%",
-    "time": 999,
+    "uptimeDay": "86.83%",
+    "uptimeWeek": "92.85%",
+    "uptimeMonth": "98.19%",
+    "uptimeYear": "99.64%",
+    "time": 1000,
     "timeDay": 919,
     "timeWeek": 943,
     "timeMonth": 975,
@@ -51,7 +51,7 @@
       "2026-06-03": 151,
       "2026-06-04": 350,
       "2026-06-05": 60,
-      "2026-06-06": 100
+      "2026-06-06": 129
     }
   },
   {
@@ -59,13 +59,13 @@
     "url": "https://kommentare.koch-reis.de/",
     "icon": "https://icons.duckduckgo.com/ip3/kommentare.koch-reis.de.ico",
     "slug": "comments-service",
-    "status": "up",
+    "status": "down",
     "uptime": "99.64%",
-    "uptimeDay": "90.21%",
-    "uptimeWeek": "93.76%",
-    "uptimeMonth": "98.41%",
+    "uptimeDay": "88.51%",
+    "uptimeWeek": "93.52%",
+    "uptimeMonth": "98.35%",
     "uptimeYear": "99.68%",
-    "time": 826,
+    "time": 827,
     "timeDay": 774,
     "timeWeek": 745,
     "timeMonth": 725,
@@ -101,7 +101,7 @@
       "2026-06-03": 137,
       "2026-06-04": 325,
       "2026-06-05": 50,
-      "2026-06-06": 91
+      "2026-06-06": 116
     }
   },
   {
@@ -109,13 +109,13 @@
     "url": "https://bilder.koch-reis.de/media/_pantry/_/asiatische_zutaten.jpg",
     "icon": "https://icons.duckduckgo.com/ip3/bilder.koch-reis.de.ico",
     "slug": "media-server",
-    "status": "up",
+    "status": "down",
     "uptime": "98.88%",
-    "uptimeDay": "91.55%",
-    "uptimeWeek": "94.39%",
-    "uptimeMonth": "98.56%",
-    "uptimeYear": "97.58%",
-    "time": 1015,
+    "uptimeDay": "90.18%",
+    "uptimeWeek": "94.19%",
+    "uptimeMonth": "98.52%",
+    "uptimeYear": "97.57%",
+    "time": 1016,
     "timeDay": 955,
     "timeWeek": 926,
     "timeMonth": 928,
@@ -157,7 +157,7 @@
       "2026-06-03": 122,
       "2026-06-04": 301,
       "2026-06-05": 40,
-      "2026-06-06": 81
+      "2026-06-06": 101
     }
   },
   {
@@ -165,11 +165,11 @@
     "url": "https://api.koch-reis.de/resize/v2/?width=190&src=%2fmedia%2f0900%2f0918%2fnuea_pad_phed_prik_thai_on.jpg",
     "icon": "https://icons.duckduckgo.com/ip3/api.koch-reis.de.ico",
     "slug": "resize-image-service",
-    "status": "up",
+    "status": "down",
     "uptime": "99.58%",
-    "uptimeDay": "92.89%",
-    "uptimeWeek": "95.01%",
-    "uptimeMonth": "98.72%",
+    "uptimeDay": "91.86%",
+    "uptimeWeek": "94.86%",
+    "uptimeMonth": "98.68%",
     "uptimeYear": "99.72%",
     "time": 866,
     "timeDay": 681,
@@ -205,7 +205,7 @@
       "2026-06-03": 108,
       "2026-06-04": 276,
       "2026-06-05": 30,
-      "2026-06-06": 72
+      "2026-06-06": 87
     }
   },
   {
@@ -213,10 +213,10 @@
     "url": "https://api.koch-reis.de/social-media/v1/?src=reiskoch&format=pin&id=1390&title=Gurkensalat%20nach%20Sichuan%20Art",
     "icon": "https://icons.duckduckgo.com/ip3/api.koch-reis.de.ico",
     "slug": "pin-generation-service",
-    "status": "up",
-    "uptime": "95.77%",
-    "uptimeDay": "95.71%",
-    "uptimeWeek": "96.41%",
+    "status": "down",
+    "uptime": "95.78%",
+    "uptimeDay": "95.75%",
+    "uptimeWeek": "96.42%",
     "uptimeMonth": "99.05%",
     "uptimeYear": "90.53%",
     "time": 704,
@@ -279,7 +279,7 @@
       "2026-05-13": 53,
       "2026-06-03": 79,
       "2026-06-04": 220,
-      "2026-06-06": 62
+      "2026-06-06": 61
     }
   },
   {
@@ -287,13 +287,13 @@
     "url": "https://api.koch-reis.de/flyer/v1/?id=/2026/20260315_celle.jpg",
     "icon": "https://icons.duckduckgo.com/ip3/api.koch-reis.de.ico",
     "slug": "calendar-flyer-service",
-    "status": "up",
+    "status": "down",
     "uptime": "94.69%",
-    "uptimeDay": "96.38%",
-    "uptimeWeek": "96.70%",
+    "uptimeDay": "96.42%",
+    "uptimeWeek": "96.71%",
     "uptimeMonth": "99.13%",
     "uptimeYear": "90.54%",
-    "time": 234,
+    "time": 235,
     "timeDay": 373,
     "timeWeek": 377,
     "timeMonth": 387,
@@ -355,7 +355,7 @@
       "2026-05-13": 49,
       "2026-06-03": 74,
       "2026-06-04": 207,
-      "2026-06-06": 52
+      "2026-06-06": 51
     }
   },
   {
@@ -363,13 +363,13 @@
     "url": "https://api.koch-reis.de/youtube/v1/?file=m_HzLtoRP64.webp",
     "icon": "https://icons.duckduckgo.com/ip3/api.koch-reis.de.ico",
     "slug": "you-tube-preview-service",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "97.05%",
+    "uptimeDay": "97.09%",
     "uptimeWeek": "96.99%",
     "uptimeMonth": "99.21%",
     "uptimeYear": "99.77%",
-    "time": 266,
+    "time": 265,
     "timeDay": 622,
     "timeWeek": 627,
     "timeMonth": 645,
@@ -398,7 +398,7 @@
       "2026-05-13": 44,
       "2026-06-03": 70,
       "2026-06-04": 192,
-      "2026-06-06": 42
+      "2026-06-06": 41
     }
   }
 ]
