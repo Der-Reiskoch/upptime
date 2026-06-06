@@ -211,10 +211,10 @@
     "slug": "pin-generation-service",
     "status": "up",
     "uptime": "95.78%",
-    "uptimeDay": "99.26%",
-    "uptimeWeek": "96.92%",
-    "uptimeMonth": "99.17%",
-    "uptimeYear": "90.54%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.02%",
+    "uptimeMonth": "99.19%",
+    "uptimeYear": "90.55%",
     "time": 703,
     "timeDay": 1060,
     "timeWeek": 1037,
@@ -274,8 +274,7 @@
       "2026-04-16": 19,
       "2026-05-13": 53,
       "2026-06-03": 79,
-      "2026-06-04": 220,
-      "2026-06-05": 11
+      "2026-06-04": 220
     }
   },
   {
@@ -285,9 +284,9 @@
     "slug": "calendar-flyer-service",
     "status": "up",
     "uptime": "94.69%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "97.16%",
-    "uptimeMonth": "99.24%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.22%",
+    "uptimeMonth": "99.25%",
     "uptimeYear": "90.55%",
     "time": 234,
     "timeDay": 395,
@@ -350,8 +349,7 @@
       "2026-04-16": 18,
       "2026-05-13": 49,
       "2026-06-03": 74,
-      "2026-06-04": 207,
-      "2026-06-05": 6
+      "2026-06-04": 207
     }
   },
   {
@@ -361,8 +359,8 @@
     "slug": "you-tube-preview-service",
     "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "97.40%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.41%",
     "uptimeMonth": "99.30%",
     "uptimeYear": "99.78%",
     "time": 264,
@@ -393,8 +391,7 @@
       "2026-04-16": 18,
       "2026-05-13": 44,
       "2026-06-03": 70,
-      "2026-06-04": 192,
-      "2026-06-05": 1
+      "2026-06-04": 192
     }
   }
 ]
