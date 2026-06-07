@@ -1,7 +1,7 @@
 url: https://api.koch-reis.de/youtube/v1/?file=m_HzLtoRP64.webp
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-06-07T18:24:12.191Z
+status: up
+code: 200
+responseTime: 783
+lastUpdated: 2026-06-07T18:59:16.375Z
 startTime: 2024-08-23T19:37:08.942Z
 generator: Upptime <https://github.com/upptime/upptime>
