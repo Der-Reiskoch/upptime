@@ -4,16 +4,16 @@
     "url": "https://www.der-reiskoch.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.der-reiskoch.de.ico",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "88.15%",
-    "uptimeWeek": "88.24%",
-    "uptimeMonth": "92.46%",
+    "uptimeDay": "86.12%",
+    "uptimeWeek": "87.95%",
+    "uptimeMonth": "92.39%",
     "uptimeYear": "99.15%",
     "time": 995,
-    "timeDay": 950,
-    "timeWeek": 974,
-    "timeMonth": 983,
+    "timeDay": 875,
+    "timeWeek": 955,
+    "timeMonth": 982,
     "timeYear": 993,
     "dailyMinutesDown": {
       "2025-07-28": 21,
@@ -63,7 +63,8 @@
       "2026-06-15": 248,
       "2026-06-16": 130,
       "2026-06-17": 50,
-      "2026-06-18": 171
+      "2026-06-18": 171,
+      "2026-06-19": 29
     }
   },
   {
@@ -71,15 +72,15 @@
     "url": "https://kommentare.koch-reis.de/",
     "icon": "https://icons.duckduckgo.com/ip3/kommentare.koch-reis.de.ico",
     "slug": "comments-service",
-    "status": "up",
+    "status": "down",
     "uptime": "99.57%",
-    "uptimeDay": "88.82%",
-    "uptimeWeek": "89.29%",
-    "uptimeMonth": "93.08%",
-    "uptimeYear": "99.23%",
+    "uptimeDay": "87.12%",
+    "uptimeWeek": "89.05%",
+    "uptimeMonth": "93.02%",
+    "uptimeYear": "99.22%",
     "time": 813,
-    "timeDay": 675,
-    "timeWeek": 691,
+    "timeDay": 610,
+    "timeWeek": 684,
     "timeMonth": 708,
     "timeYear": 822,
     "dailyMinutesDown": {
@@ -125,7 +126,8 @@
       "2026-06-15": 239,
       "2026-06-16": 120,
       "2026-06-17": 46,
-      "2026-06-18": 161
+      "2026-06-18": 161,
+      "2026-06-19": 25
     }
   },
   {
@@ -133,17 +135,17 @@
     "url": "https://bilder.koch-reis.de/media/_pantry/_/asiatische_zutaten.jpg",
     "icon": "https://icons.duckduckgo.com/ip3/bilder.koch-reis.de.ico",
     "slug": "media-server",
-    "status": "up",
+    "status": "down",
     "uptime": "98.72%",
-    "uptimeDay": "89.49%",
-    "uptimeWeek": "90.34%",
-    "uptimeMonth": "93.70%",
+    "uptimeDay": "88.13%",
+    "uptimeWeek": "90.15%",
+    "uptimeMonth": "93.65%",
     "uptimeYear": "97.16%",
-    "time": 1013,
-    "timeDay": 957,
-    "timeWeek": 994,
-    "timeMonth": 963,
-    "timeYear": 1013,
+    "time": 1012,
+    "timeDay": 868,
+    "timeWeek": 974,
+    "timeMonth": 962,
+    "timeYear": 1012,
     "dailyMinutesDown": {
       "2025-07-28": 21,
       "2026-01-02": 20,
@@ -193,7 +195,8 @@
       "2026-06-15": 229,
       "2026-06-16": 110,
       "2026-06-17": 41,
-      "2026-06-18": 151
+      "2026-06-18": 151,
+      "2026-06-19": 20
     }
   },
   {
@@ -201,17 +204,17 @@
     "url": "https://api.koch-reis.de/resize/v2/?width=190&src=%2fmedia%2f0900%2f0918%2fnuea_pad_phed_prik_thai_on.jpg",
     "icon": "https://icons.duckduckgo.com/ip3/api.koch-reis.de.ico",
     "slug": "resize-image-service",
-    "status": "up",
+    "status": "down",
     "uptime": "99.43%",
-    "uptimeDay": "90.16%",
-    "uptimeWeek": "91.40%",
-    "uptimeMonth": "94.31%",
+    "uptimeDay": "89.13%",
+    "uptimeWeek": "91.25%",
+    "uptimeMonth": "94.28%",
     "uptimeYear": "99.34%",
     "time": 853,
-    "timeDay": 669,
-    "timeWeek": 712,
+    "timeDay": 628,
+    "timeWeek": 708,
     "timeMonth": 718,
-    "timeYear": 843,
+    "timeYear": 842,
     "dailyMinutesDown": {
       "2026-01-02": 20,
       "2026-01-16": 15,
@@ -253,7 +256,8 @@
       "2026-06-15": 219,
       "2026-06-16": 100,
       "2026-06-17": 36,
-      "2026-06-18": 141
+      "2026-06-18": 141,
+      "2026-06-19": 15
     }
   },
   {
@@ -261,16 +265,16 @@
     "url": "https://api.koch-reis.de/social-media/v1/?src=reiskoch&format=pin&id=1390&title=Gurkensalat%20nach%20Sichuan%20Art",
     "icon": "https://icons.duckduckgo.com/ip3/api.koch-reis.de.ico",
     "slug": "pin-generation-service",
-    "status": "up",
+    "status": "down",
     "uptime": "95.71%",
-    "uptimeDay": "90.83%",
-    "uptimeWeek": "93.67%",
-    "uptimeMonth": "95.57%",
+    "uptimeDay": "90.14%",
+    "uptimeWeek": "93.57%",
+    "uptimeMonth": "95.55%",
     "uptimeYear": "90.23%",
-    "time": 731,
-    "timeDay": 1107,
-    "timeWeek": 1097,
-    "timeMonth": 1061,
+    "time": 732,
+    "timeDay": 980,
+    "timeWeek": 1077,
+    "timeMonth": 1058,
     "timeYear": 738,
     "dailyMinutesDown": {
       "2026-02-02": 1385,
@@ -338,7 +342,8 @@
       "2026-06-15": 210,
       "2026-06-16": 91,
       "2026-06-17": 31,
-      "2026-06-18": 132
+      "2026-06-18": 132,
+      "2026-06-19": 10
     }
   },
   {
@@ -346,16 +351,16 @@
     "url": "https://api.koch-reis.de/flyer/v1/?id=/2026/20260315_celle.jpg",
     "icon": "https://icons.duckduckgo.com/ip3/api.koch-reis.de.ico",
     "slug": "calendar-flyer-service",
-    "status": "up",
+    "status": "down",
     "uptime": "94.64%",
-    "uptimeDay": "91.51%",
-    "uptimeWeek": "94.34%",
-    "uptimeMonth": "95.94%",
-    "uptimeYear": "90.27%",
-    "time": 246,
-    "timeDay": 415,
-    "timeWeek": 400,
-    "timeMonth": 393,
+    "uptimeDay": "91.14%",
+    "uptimeWeek": "94.29%",
+    "uptimeMonth": "95.93%",
+    "uptimeYear": "90.26%",
+    "time": 247,
+    "timeDay": 362,
+    "timeWeek": 393,
+    "timeMonth": 392,
     "timeYear": 251,
     "dailyMinutesDown": {
       "2025-11-22": 16,
@@ -425,7 +430,8 @@
       "2026-06-14": 44,
       "2026-06-16": 82,
       "2026-06-17": 26,
-      "2026-06-18": 123
+      "2026-06-18": 123,
+      "2026-06-19": 5
     }
   },
   {
@@ -433,16 +439,16 @@
     "url": "https://api.koch-reis.de/youtube/v1/?file=m_HzLtoRP64.webp",
     "icon": "https://icons.duckduckgo.com/ip3/api.koch-reis.de.ico",
     "slug": "you-tube-preview-service",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "92.18%",
+    "uptimeDay": "92.15%",
     "uptimeWeek": "94.82%",
     "uptimeMonth": "96.30%",
     "uptimeYear": "99.52%",
-    "time": 296,
-    "timeDay": 694,
-    "timeWeek": 662,
-    "timeMonth": 651,
+    "time": 297,
+    "timeDay": 602,
+    "timeWeek": 653,
+    "timeMonth": 650,
     "timeYear": 323,
     "dailyMinutesDown": {
       "2026-01-02": 19,
@@ -479,7 +485,8 @@
       "2026-06-14": 39,
       "2026-06-16": 72,
       "2026-06-17": 22,
-      "2026-06-18": 113
+      "2026-06-18": 113,
+      "2026-06-19": 0
     }
   }
 ]
