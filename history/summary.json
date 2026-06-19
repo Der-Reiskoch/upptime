@@ -6,10 +6,10 @@
     "slug": "blog",
     "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "86.12%",
-    "uptimeWeek": "87.95%",
-    "uptimeMonth": "92.39%",
-    "uptimeYear": "99.15%",
+    "uptimeDay": "84.98%",
+    "uptimeWeek": "87.78%",
+    "uptimeMonth": "92.36%",
+    "uptimeYear": "99.14%",
     "time": 995,
     "timeDay": 875,
     "timeWeek": 955,
@@ -64,7 +64,7 @@
       "2026-06-16": 130,
       "2026-06-17": 50,
       "2026-06-18": 171,
-      "2026-06-19": 29
+      "2026-06-19": 46
     }
   },
   {
@@ -74,9 +74,9 @@
     "slug": "comments-service",
     "status": "down",
     "uptime": "99.57%",
-    "uptimeDay": "87.12%",
-    "uptimeWeek": "89.05%",
-    "uptimeMonth": "93.02%",
+    "uptimeDay": "85.99%",
+    "uptimeWeek": "88.89%",
+    "uptimeMonth": "92.99%",
     "uptimeYear": "99.22%",
     "time": 813,
     "timeDay": 610,
@@ -127,7 +127,7 @@
       "2026-06-16": 120,
       "2026-06-17": 46,
       "2026-06-18": 161,
-      "2026-06-19": 25
+      "2026-06-19": 41
     }
   },
   {
@@ -137,10 +137,10 @@
     "slug": "media-server",
     "status": "down",
     "uptime": "98.72%",
-    "uptimeDay": "88.13%",
-    "uptimeWeek": "90.15%",
-    "uptimeMonth": "93.65%",
-    "uptimeYear": "97.16%",
+    "uptimeDay": "86.99%",
+    "uptimeWeek": "89.99%",
+    "uptimeMonth": "93.61%",
+    "uptimeYear": "97.15%",
     "time": 1012,
     "timeDay": 868,
     "timeWeek": 974,
@@ -196,7 +196,7 @@
       "2026-06-16": 110,
       "2026-06-17": 41,
       "2026-06-18": 151,
-      "2026-06-19": 20
+      "2026-06-19": 36
     }
   },
   {
@@ -206,9 +206,9 @@
     "slug": "resize-image-service",
     "status": "down",
     "uptime": "99.43%",
-    "uptimeDay": "89.13%",
-    "uptimeWeek": "91.25%",
-    "uptimeMonth": "94.28%",
+    "uptimeDay": "88.00%",
+    "uptimeWeek": "91.09%",
+    "uptimeMonth": "94.24%",
     "uptimeYear": "99.34%",
     "time": 853,
     "timeDay": 628,
@@ -257,7 +257,7 @@
       "2026-06-16": 100,
       "2026-06-17": 36,
       "2026-06-18": 141,
-      "2026-06-19": 15
+      "2026-06-19": 31
     }
   },
   {
@@ -267,9 +267,9 @@
     "slug": "pin-generation-service",
     "status": "down",
     "uptime": "95.71%",
-    "uptimeDay": "90.14%",
-    "uptimeWeek": "93.57%",
-    "uptimeMonth": "95.55%",
+    "uptimeDay": "89.00%",
+    "uptimeWeek": "93.41%",
+    "uptimeMonth": "95.51%",
     "uptimeYear": "90.23%",
     "time": 732,
     "timeDay": 980,
@@ -343,7 +343,7 @@
       "2026-06-16": 91,
       "2026-06-17": 31,
       "2026-06-18": 132,
-      "2026-06-19": 10
+      "2026-06-19": 26
     }
   },
   {
@@ -353,9 +353,9 @@
     "slug": "calendar-flyer-service",
     "status": "down",
     "uptime": "94.64%",
-    "uptimeDay": "91.14%",
-    "uptimeWeek": "94.29%",
-    "uptimeMonth": "95.93%",
+    "uptimeDay": "90.01%",
+    "uptimeWeek": "94.13%",
+    "uptimeMonth": "95.89%",
     "uptimeYear": "90.26%",
     "time": 247,
     "timeDay": 362,
@@ -431,7 +431,7 @@
       "2026-06-16": 82,
       "2026-06-17": 26,
       "2026-06-18": 123,
-      "2026-06-19": 5
+      "2026-06-19": 22
     }
   },
   {
@@ -441,9 +441,9 @@
     "slug": "you-tube-preview-service",
     "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "92.15%",
-    "uptimeWeek": "94.82%",
-    "uptimeMonth": "96.30%",
+    "uptimeDay": "91.02%",
+    "uptimeWeek": "94.66%",
+    "uptimeMonth": "96.26%",
     "uptimeYear": "99.52%",
     "time": 297,
     "timeDay": 602,
@@ -486,7 +486,7 @@
       "2026-06-16": 72,
       "2026-06-17": 22,
       "2026-06-18": 113,
-      "2026-06-19": 0
+      "2026-06-19": 17
     }
   }
 ]
