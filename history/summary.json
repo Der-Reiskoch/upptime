@@ -4,15 +4,15 @@
     "url": "https://www.der-reiskoch.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.der-reiskoch.de.ico",
     "slug": "blog",
-    "status": "down",
+    "status": "up",
     "uptime": "99.80%",
     "uptimeDay": "83.43%",
-    "uptimeWeek": "87.74%",
+    "uptimeWeek": "88.24%",
     "uptimeMonth": "91.05%",
     "uptimeYear": "99.04%",
-    "time": 996,
-    "timeDay": 854,
-    "timeWeek": 889,
+    "time": 995,
+    "timeDay": 878,
+    "timeWeek": 896,
     "timeMonth": 965,
     "timeYear": 990,
     "dailyMinutesDown": {
@@ -77,12 +77,12 @@
     "status": "up",
     "uptime": "99.81%",
     "uptimeDay": "85.11%",
-    "uptimeWeek": "88.65%",
+    "uptimeWeek": "89.15%",
     "uptimeMonth": "91.80%",
     "uptimeYear": "99.12%",
     "time": 815,
     "timeDay": 656,
-    "timeWeek": 652,
+    "timeWeek": 658,
     "timeMonth": 702,
     "timeYear": 817,
     "dailyMinutesDown": {
@@ -142,12 +142,12 @@
     "status": "up",
     "uptime": "98.76%",
     "uptimeDay": "86.79%",
-    "uptimeWeek": "89.56%",
+    "uptimeWeek": "90.06%",
     "uptimeMonth": "92.55%",
     "uptimeYear": "97.07%",
     "time": 1014,
     "timeDay": 928,
-    "timeWeek": 889,
+    "timeWeek": 896,
     "timeMonth": 950,
     "timeYear": 1008,
     "dailyMinutesDown": {
@@ -213,12 +213,12 @@
     "status": "up",
     "uptime": "99.51%",
     "uptimeDay": "88.47%",
-    "uptimeWeek": "90.47%",
+    "uptimeWeek": "90.97%",
     "uptimeMonth": "93.30%",
     "uptimeYear": "99.26%",
     "time": 852,
     "timeDay": 741,
-    "timeWeek": 695,
+    "timeWeek": 702,
     "timeMonth": 719,
     "timeYear": 837,
     "dailyMinutesDown": {
@@ -274,14 +274,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.koch-reis.de.ico",
     "slug": "pin-generation-service",
     "status": "up",
-    "uptime": "95.69%",
-    "uptimeDay": "90.14%",
-    "uptimeWeek": "91.61%",
-    "uptimeMonth": "94.74%",
-    "uptimeYear": "90.16%",
+    "uptime": "95.70%",
+    "uptimeDay": "90.88%",
+    "uptimeWeek": "92.21%",
+    "uptimeMonth": "94.77%",
+    "uptimeYear": "90.17%",
     "time": 735,
     "timeDay": 1051,
-    "timeWeek": 1001,
+    "timeWeek": 1009,
     "timeMonth": 1043,
     "timeYear": 746,
     "dailyMinutesDown": {
@@ -353,7 +353,7 @@
       "2026-06-18": 132,
       "2026-06-19": 88,
       "2026-06-20": 133,
-      "2026-06-21": 143
+      "2026-06-21": 132
     }
   },
   {
@@ -362,14 +362,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.koch-reis.de.ico",
     "slug": "calendar-flyer-service",
     "status": "up",
-    "uptime": "94.63%",
-    "uptimeDay": "93.43%",
-    "uptimeWeek": "92.65%",
-    "uptimeMonth": "95.28%",
+    "uptime": "94.64%",
+    "uptimeDay": "93.84%",
+    "uptimeWeek": "93.21%",
+    "uptimeMonth": "95.29%",
     "uptimeYear": "90.21%",
     "time": 251,
     "timeDay": 389,
-    "timeWeek": 375,
+    "timeWeek": 378,
     "timeMonth": 388,
     "timeYear": 255,
     "dailyMinutesDown": {
@@ -443,7 +443,7 @@
       "2026-06-18": 123,
       "2026-06-19": 78,
       "2026-06-20": 118,
-      "2026-06-21": 95
+      "2026-06-21": 89
     }
   },
   {
@@ -453,13 +453,13 @@
     "slug": "you-tube-preview-service",
     "status": "up",
     "uptime": "99.70%",
-    "uptimeDay": "94.44%",
-    "uptimeWeek": "93.37%",
+    "uptimeDay": "94.51%",
+    "uptimeWeek": "93.88%",
     "uptimeMonth": "95.73%",
     "uptimeYear": "99.47%",
     "time": 309,
     "timeDay": 675,
-    "timeWeek": 630,
+    "timeWeek": 635,
     "timeMonth": 646,
     "timeYear": 332,
     "dailyMinutesDown": {
@@ -500,7 +500,7 @@
       "2026-06-18": 113,
       "2026-06-19": 68,
       "2026-06-20": 103,
-      "2026-06-21": 80
+      "2026-06-21": 79
     }
   }
 ]
